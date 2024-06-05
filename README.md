@@ -63,13 +63,13 @@
 #### 개별 Hearing (심의자료) 페이지
 ![screenshot_hearing2.png](images/screenshot_hearing2.png)
 
-- 불러온 Hearing 을 보고 저장 할 수 있게 구현
+- 리얼타임으로 Hearing의 심의기간을 확인 할 수 있게 구현
+- ROUTE PIPE / ROUTE FOR OFFICE REVIEW 버튼으로 내보내기 구현
 
 #### 개별 Testimony 페이지
 ![screenshot_testimony2.png](images/screenshot_testimony2.png)
 
-- 리얼타임으로 Hearing의 심의기간을 확인 할 수 있게 구현
-- ROUTE PIPE / ROUTE OFFICE REVIEW 버튼으로 메일로 내보내기 구현
+- 불러온 Testimony 를 pdf로 저장 할 수 있게 구현
 
 
 ### :scroll: 기술스택

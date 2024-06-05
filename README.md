@@ -26,7 +26,7 @@
 - `useState` 를 사용하여 요소를 처리하고, 팝업을 만들어 수정/저장할 수 있게 구현
 - `useEffect` 와 같은 React 훅을 사용
 - `handleElements`로 맵을 사용하여 현재 웹사이트에 표시된 요소를 내보낼 수 있도록 구현
-- `iterateJson` 로 XML 파일을 가져와 서로 연결하고 웹사이트에 그래프를 표시
+- `iterateJson` 로 XML 파일을 로드해 노드를 연결하고 웹사이트에 그래프를 시각화
 
 ### 습득한 역량
 - 기술적 어려움: Cytoscape 사용법 익히기, 브라우저 및 운영 체제 호환 문제 해결
@@ -35,6 +35,6 @@
 
 ### 코드 및 URL
 - [코드](https://github.com/wrench-project/simgrid-platform-file-visualizer)
-- [프로젝트 포스터](images/simgrid_example.png)
+- [프로젝트 포스터](sources/SimGrid_poster.png)
 ## Ala Hele (하와이 교육부 입법 절차 지원 웹사이트)
 ## Career Match

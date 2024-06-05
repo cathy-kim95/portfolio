@@ -82,7 +82,7 @@
 #### 개별 Testimony 페이지
 ![screenshot_testimony2.png](images/screenshot_testimony2.png)
 
-- 불러온 Testimony 를 pdf로 저장 할 수 있게 구현
+- 불러온 Testimony 를 PDF로 저장 할 수 있게 구현
 
 
 ### :scroll: 기술스택
@@ -97,9 +97,9 @@
 #### :pushpin: 개인기여도
 - `BaseCollection` 를 사용하여 입법 청문회에 대한 정보를 연도, 법안 번호, 법안 유형, 날짜/시간, 등등으로 컬렉션으로 저장
 - 각 Bill, Testimony, Hearing 리스트에서 페이지네이션 구현
-- `useState`과 `useTracker` 로 서치바로 법안 검색 기능 및 정렬 기능 구현
+- `useState`과 `useTracker` 를 사용하여 서치바로 법안 검색 기능 및 정렬 기능 구현
 - 사용자가 따로 클릭한 법안을 즐겨찾기 할 수 있도록 구현
-- `MongoDB` 를 통해 사용자가 직접 웹사이트에서 계정을 만들 수 있도록 구현
+- `MongoDB` 를 통해 데이터를 저장 및 사용자가 직접 웹사이트에서 계정을 만들 수 있도록 구현
 
 ### :sparkles: 습득한 역량
 

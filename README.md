@@ -48,7 +48,7 @@
 
 ### :bookmark: 코드 및 URL
 - [코드](https://github.com/wrench-project/simgrid-platform-file-visualizer)
-- [프로젝트 포스터](sources/SimGrid_poster.png)
+- [프로젝트 포스터 (영문)](sources/SimGrid_poster.png)
 
 
 ## Ala Hele (하와이 교육청 입법 절차 지원 웹사이트)
@@ -122,7 +122,7 @@
 
 ### :bookmark: 코드 및 URL
 - [코드](https://github.com/alahele/alahele)
-- [프로젝트 설명사이트](https://alahele.github.io/)
+- [프로젝트 설명사이트 (영문)](https://alahele.github.io/)
 
 
 ## Career Match

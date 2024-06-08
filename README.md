@@ -23,6 +23,7 @@
 - JavaScript
 - React.js
 - Material UI
+- CSS
 
 <br>
 
@@ -112,6 +113,7 @@
 - JavaScript
 - React.js
 - Bootstrap
+- CSS
 
 <br>
 

@@ -1,4 +1,4 @@
-# Kim Cathy Sojung 포트폴리오
+# Kim Cathy Sojung의 포트폴리오
 
 
 ## 1. SimGrid XML 플랫폼 설명 파일 시각화
@@ -49,6 +49,12 @@
 - [코드](https://github.com/wrench-project/simgrid-platform-file-visualizer)
 - [프로젝트 포스터 (영문)](sources/SimGrid_poster.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>  
 
 ## 2. Ala Hele (하와이 교육청 입법 절차 지원 웹사이트)
 
@@ -123,6 +129,13 @@
 ### :bookmark: 코드 및 URL
 - [코드](https://github.com/alahele/alahele)
 - [프로젝트 설명사이트 (영문)](https://alahele.github.io/)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>  
 
 
 ## 3. Cash Companion
